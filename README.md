@@ -1,2 +1,3 @@
-#hotel-booking-and-management
+#Hotel-booking-and-management
+
 A Hotel booking and management platform
